@@ -2,7 +2,7 @@
 
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	Nezuko 
-##   Version 	: 	3
+##   Version 	: 	3.1
 ##   Whatsapp	: 	+2349134399522
 
 
@@ -90,7 +90,7 @@
 ##   TheLinuxChoice - https://twitter.com/linux_choice
 
 
-__version__="2.3.5"
+__version__="3.1"
 
 ## DEFAULT HOST & PORT
 HOST='127.0.0.1'
@@ -213,7 +213,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Modified ny Not human (Nezuko)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Modified by Not human (+2349134399522)${WHITE}
 	EOF
 }
 
