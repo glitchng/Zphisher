@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   Author 	: 	Nezuko 
+##   Version 	: 	3
+##   Whatsapp	: 	+2349134399522
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -76,7 +76,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2024 NEZUKO
 ##
 
 ##   THANKS TO :
@@ -213,7 +213,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Modified ny Not human (Nezuko)${WHITE}
 	EOF
 }
 
